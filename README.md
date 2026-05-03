@@ -1,1 +1,1 @@
-- Learning focus: LLMs, prompt engineering, and AI use cases, Updated
+- Learning focus: LLMs, prompt engineering, and AI use cases, Updated2
